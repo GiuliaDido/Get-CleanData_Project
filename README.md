@@ -1,17 +1,18 @@
 Get-CleanData_Project
 =====================
 
-This repository contain the course project of Getting and Cleaning Data
+This repository contains the course project for *Getting and Cleaning Data*.
 
 
-## The script
+## Script
 
-The repository contains the script **Run_analysis.R** that will produce a tidy data set from the raw data as required by the assignement.
+This repository contains the script **Run_analysis.R** that will produce a tidy data set from the raw data as required by the assignement.
 In order to run properly, the script has to be located in the same directory as the **Dataset** folder containing all raw data.
+It also needs the **dplyr** package to be installed and loaded.
 
-Run the script in R using: *source("Run_analysis.R")*
+Run the script in R using:    *source("Run_analysis.R")*
 
 
-## The Codebook
+## Codebook
 
-The file **Codebook.md** contains the description of raw data and tidy data as well as of all the steps performed to get the tidy dataset.
+The **Codebook.md** file contains a description of the *raw dataset* and of the *tidy dataset* as well as all the steps performed in the data-cleaning analysis.
