@@ -6,11 +6,11 @@ This repository contains the course project for *Getting and Cleaning Data*.
 
 ## Script
 
-This repository contains the script **Run_analysis.R** that will produce a tidy data set from the raw data as required by the assignement.
+This repository contains the script **run_analysis.R** that will produce a tidy data set from the raw data as required by the assignement.
 In order to run properly, the script has to be located in the same directory as the **Dataset** folder containing all raw data.
 It also needs the **dplyr** package to be installed and loaded.
 
-Run the script in R using:    *source("Run_analysis.R")*
+Run the script in R using:    *source("run_analysis.R")*
 
 
 ## Codebook
